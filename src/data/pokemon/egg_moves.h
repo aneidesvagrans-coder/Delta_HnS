@@ -1951,7 +1951,7 @@ static const u16 sPinecoEggMoveLearnset[] = {
 
 #if P_FAMILY_DUNSPARCE
 static const u16 sDunsparceEggMoveLearnset[] = {
-    MOVE_BIDE,
+    MOVE_HYPER_DRILL,
     MOVE_ANCIENT_POWER,
     MOVE_BITE,
     MOVE_HEADBUTT,
